@@ -1,4 +1,4 @@
-package io.ermdev.testube.testube
+package io.ermdev.testube
 
 import org.junit.Test
 import org.junit.runner.RunWith

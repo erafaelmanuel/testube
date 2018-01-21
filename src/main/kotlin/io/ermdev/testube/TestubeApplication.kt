@@ -1,4 +1,4 @@
-package io.ermdev.testube.testube
+package io.ermdev.testube
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
